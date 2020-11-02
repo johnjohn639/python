@@ -1,0 +1,2 @@
+# python
+Given a list of integers, say MyList, and a special value, say SpecialValue, write a function called FindValue that returns the index of the first occurrence of the special value in the list or else returns –1 if the list does not contain the special value. Insert a comment in your program to explain why you cannot simply write: return MyList.index(SpecialValue). Include a main program the calls the function two times: once when SpecialValue is in MyList and once when SpecialValue is not in MyList
